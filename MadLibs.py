@@ -1,0 +1,21 @@
+
+a = str(input("Please input a Noun: "))
+b = str(input("Please input a Name: "))
+c = str(input("Please input a Body Part: "))
+d = str(input("Please input an Adjective: "))
+e = str(input("Please input a Noun: "))
+f = str(input("Please input a Noun: "))
+g = str(input("Please input a Plural Noun: "))
+h = str(input("Please input a Type of Liquid: "))
+i = str(input("Please input an Adjective: "))
+j = str(input("Please input a Noun: "))
+k = str(input("Please input a Noun: "))
+l = str(input("Please input a Noun: "))
+m = str(input("Please input a Plural Noun: "))
+n = str(input("Please input a Female Name: "))
+o = str(input("Please input a Noun: "))
+p = str(input("Please input a Body Part: "))
+verb = str(input("Please input a Verb: "))
+
+print("It was Thanksgiving, and the scent of succulent roast " + a + " wafted through my house. " + b + " , it's time to " + verb + "! my mother called. I couldn't wait to get my " + c + " on that " + d + " Thanksgiving meal. My family sat around the dining room " + e + ". The table was laid out withh every kind of " + f + " imaginable. There was a basket of hot buttered " + g + " and glasses of sparkling " + h + ". The " + i + " Turkey sat, steaming, next to a tureen of " + j + " gravy. A bowl of ruby-red " + k + " sauce, a sweet " + l + " casserole, and a dish of mashed " + m + " tempted my tastebuds. But the dish I looked forward to the most was Grandma " + n + "'s famous " + o + " pie. Thanksgiving is my favorite holiday. " + p + " down.")
+
